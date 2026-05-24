@@ -1,3 +1,3 @@
 # Examen Final 25/05/2026
-##Ejercio Redactar los diferentes Patrones de Diseño de Software
+## Ejercio Redactar los diferentes Patrones de Diseño de Software
 Demostrando los difereentes conocimientos de MARKDOWN : Titulos y Subtitulos,Lsitas, Tablas,Negrita,Tachado...
